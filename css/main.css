@@ -1,0 +1,18 @@
+.profile{
+width: 100px; 
+display: block; 
+margin-left:auto; 
+margin-right:auto;
+}
+
+.head{
+    color:red; 
+    letter-spacing:5px;
+    text-align:center;
+}
+#special {
+    text-align: center;
+}
+span{
+    color: blue;
+}
